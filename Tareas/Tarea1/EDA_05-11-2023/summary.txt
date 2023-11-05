@@ -1,0 +1,196 @@
+Variable: ID
+Tipo: int64
+Valores Unicos: 135571
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 1
+Maximo: 135571
+Promedio: 68248.95439590434
+Percentil 25: 34643.0
+Percentil 50: 68205.0
+Percentil 75: 102097.25
+--------------------------------------------------
+Variable: Name
+Tipo: object
+Valores Unicos: 134732
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: Sex
+Tipo: object
+Valores Unicos: 2
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: Team
+Tipo: object
+Valores Unicos: 1184
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: NOC
+Tipo: object
+Valores Unicos: 230
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: Games
+Tipo: object
+Valores Unicos: 51
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: Year
+Tipo: int64
+Valores Unicos: 35
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 380
+Minimo: 1896
+Maximo: 2016
+Promedio: 1978.3784800601957
+Percentil 25: 1960.0
+Percentil 50: 1988.0
+Percentil 75: 2002.0
+--------------------------------------------------
+Variable: Season
+Tipo: object
+Valores Unicos: 2
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: City
+Tipo: object
+Valores Unicos: 42
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: Sport
+Tipo: object
+Valores Unicos: 66
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: Event
+Tipo: object
+Valores Unicos: 765
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Alerta: La variable 'Medal' tiene mas del 25% de valores nulos.
+Variable: Medal
+Tipo: object
+Valores Unicos: 3
+Valores Nulos: 231333
+Porcentaje Nulos: 85.33%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
+Variable: age-height-weight
+Tipo: object
+Valores Unicos: 82971
+Valores Nulos: 0
+Porcentaje Nulos: 0.00%
+Valores Cero: 0
+Valores Negativos: 0
+Valores Outliers: 0
+Minimo: 0
+Maximo: 0
+Promedio: 0
+Percentil 25: 0
+Percentil 50: 0
+Percentil 75: 0
+--------------------------------------------------
